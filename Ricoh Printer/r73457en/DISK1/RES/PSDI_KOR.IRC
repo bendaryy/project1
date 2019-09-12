@@ -1,0 +1,26 @@
+[String]
+AFX_IDS_APP_TITLE=프린터 드라이버 설치
+IDS_ERR_ADDWIZARD1=프린터 추가 마법사가 열려있어서 설치를 계속할 수 없습니다.
+IDS_ERR_ADDWIZARD2=프리터 추가 마법사 종료 후, 설치를 재시작하여 주십시오.
+IDS_ERR_CMDLINE=명령 라인 입력은 유효하지 않습니다.
+IDS_ERR_OR_SWITCH=다음 스위치들이 설정되지 않습니다.
+IDS_ERR_OSVERSION=운영체제 버전과 호환되지 않습니다.
+IDS_ERR_READINF=inf 파일 판독을 실패하였습니다.
+IDS_ERR_REGSTORY=레지스트리 갱신을 실패하였습니다.
+IDS_ERR_SOURCEPATHNG=유효한 inf 파일이 없습니다.
+IDS_ERR_WIZARD_RUN=프린터 추가 마법사를 시작할 수 없습니다.
+IDS_INF_REBOOT=이 프로그램을 실행하기 전에 Windows를 재시작해야 합니다.
+IDS_INF_RECOVER_REG=등록을 재설정 합니다.
+IDS_NOTFOUND_RESOURCE=리소스 파일을 발견하지 못했습니다.
+IDS_WRN_REGSTORY=등록을 재설정하기위해 설치기를 재시작하여 주십시오.
+IDS_ERR_NO_ADMIN=이 기능을 수행하기 위해서는 관리자 권한이 요구됩니다.
+[Version]
+CompanyName=RICOH COMPANY, LTD.
+FileDescription=SETUP MFC APPLICATION
+FileVersion=1, 3, 0, 0
+InternalName=SETUP
+LegalCopyright=Copyright (C) 2000-2002 RICOH COMPANY, LTD.
+OriginalFilename=SETUP.EXE
+ProductName=SETUP Application
+ProductVersion=1, 2, 12, 10
+Translation=0x411, 1200

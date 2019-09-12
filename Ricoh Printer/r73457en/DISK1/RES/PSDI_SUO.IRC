@@ -1,0 +1,27 @@
+[String]
+AFX_IDS_APP_TITLE=Asenna tulostinohjain
+IDS_ERR_ADDWIZARD1=Asennusta ei voi jatkaa, koska Ohjattu tulostimen asennus -toiminto on auki.
+IDS_ERR_ADDWIZARD2=Poistu Ohjattu tulostimen asennus -toiminnosta ja jatka asennusta sen jälkeen.
+IDS_ERR_CMDLINE=Komentorivi ei kelpaa.
+IDS_ERR_OR_SWITCH=Jokin seuraavista kytkimistä puuttuu.
+IDS_ERR_OSVERSION=Ei sovi yhteen käyttöjärjestelmän tämän version kanssa.
+IDS_ERR_READINF=inf-tiedoston luku epäonnistui.
+IDS_ERR_REGSTORY=Rekisterin päivitys epäonnistui.
+IDS_ERR_SOURCEPATHNG=inf -tiedosto ei kelpaa.
+IDS_ERR_WIZARD_RUN=Ohjattu tulostimen asennusohjelma ei käynnisty.
+IDS_INF_REBOOT=Ennen kuin otat tämän ohjelman käyttöön, käynnistä Windows uudelleen.
+IDS_INF_RECOVER_REG=Rekisterin oletusarvojen palautus.
+IDS_NOTFOUND_RESOURCE=Lähdetiedostoa ei löytynyt.
+IDS_WRN_REGSTORY=Käynnistä Installer uudelleen palauttaaksesi rekisterin oletusarvot.
+IDS_ERR_NO_ADMIN=Toimintoon tarvitaan järjestelmänvalvojan myöntämä käyttöoikeus.
+
+[Version]
+CompanyName=RICOH COMPANY, LTD.
+FileDescription=SETUP MFC APPLICATION
+FileVersion=1, 3, 0, 0
+InternalName=SETUP
+LegalCopyright=Copyright (C) 2000-2001 RICOH COMPANY, LTD.
+OriginalFilename=SETUP.EXE
+ProductName=SETUP Application
+ProductVersion=1, 0, 12, 10
+Translation=0x411, 1200

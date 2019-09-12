@@ -1,0 +1,27 @@
+[String]
+AFX_IDS_APP_TITLE=Installera skrivardrivrutin
+IDS_ERR_ADDWIZARD1=Kan inte fortsätta installationen eftersom guiden Lägg till ny maskinvara är öppen.
+IDS_ERR_ADDWIZARD2=Avsluta guiden Lägg till ny maskinvara och starta om installationen.
+IDS_ERR_CMDLINE=Ogiltigt kommando.
+IDS_ERR_OR_SWITCH=Vissa av följande switchar är inte angivna.
+IDS_ERR_OSVERSION=Ej kompatibel med denna version av OS.
+IDS_ERR_READINF=Misslyckades att läsa inf filen.
+IDS_ERR_REGSTORY=Misslyckades att uppdatera registret.
+IDS_ERR_SOURCEPATHNG=Ingen giltig inf fil.
+IDS_ERR_WIZARD_RUN=Kan inte starta guiden Lägg till ny maskinvara.
+IDS_INF_REBOOT=Innan du startar detta program ska du starta om Windows.
+IDS_INF_RECOVER_REG=Återställ registerinställningar.
+IDS_NOTFOUND_RESOURCE=Källfilen hittades ej.
+IDS_WRN_REGSTORY=Starta om Installer för att återställa registerinställningar.
+IDS_ERR_NO_ADMIN=Administratörens behörighet krävs för att uföra denna hantering.
+
+[Version]
+CompanyName=RICOH COMPANY, LTD.
+FileDescription=SETUP MFC APPLICATION
+FileVersion=1, 3, 0, 0
+InternalName=SETUP
+LegalCopyright=Copyright (C) 2000-2001 RICOH COMPANY, LTD.
+OriginalFilename=SETUP.EXE
+ProductName=SETUP Application
+ProductVersion=1, 0, 12, 10
+Translation=0x411, 1200

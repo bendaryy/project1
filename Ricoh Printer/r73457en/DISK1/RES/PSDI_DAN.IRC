@@ -1,0 +1,27 @@
+[String]
+AFX_IDS_APP_TITLE=Installer printerdriver
+IDS_ERR_ADDWIZARD1=Kan ikke fortsætte installationen, fordi guiden Tilføj printer er åben.
+IDS_ERR_ADDWIZARD2=Afslut guiden Tilføj printer, og genstart installationen.
+IDS_ERR_CMDLINE=Ugyldig kommandolinieindtastning.
+IDS_ERR_OR_SWITCH=Nogle af følgende switches er ikke indstillede.
+IDS_ERR_OSVERSION=Ikke kompatibel med denne version af operativsystemet.
+IDS_ERR_READINF=Kunne ikke læse inf-filen.
+IDS_ERR_REGSTORY=Kunne ikke opdatere registreringsdatabasen.
+IDS_ERR_SOURCEPATHNG=Ingen gyldig inf-fil.
+IDS_ERR_WIZARD_RUN=Kan ikke starte guiden Tilføj printer.
+IDS_INF_REBOOT=Du skal genstarte Windows, før du kører dette program.
+IDS_INF_RECOVER_REG=Nulstilling af registreringsdatabasen.
+IDS_NOTFOUND_RESOURCE=Kunne ikke finde ressourcefilen.
+IDS_WRN_REGSTORY=Genstart installationsprogrammet for at nulstille registreringsdatabasen.
+IDS_ERR_NO_ADMIN=Det kræver administratorrettigheder at udføre denne handling.
+
+[Version]
+CompanyName=RICOH COMPANY, LTD.
+FileDescription=SETUP MFC APPLICATION
+FileVersion=1, 3, 0, 0
+InternalName=SETUP
+LegalCopyright=Copyright (C) 2000-2001 RICOH COMPANY, LTD.
+OriginalFilename=SETUP.EXE
+ProductName=SETUP Application
+ProductVersion=1, 0, 12, 10
+Translation=0x411, 1200
